@@ -1,0 +1,17 @@
+{
+  "name": "txn_script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^6.1.5"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
